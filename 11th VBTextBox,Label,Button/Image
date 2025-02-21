@@ -1,0 +1,5 @@
+Public Class Form1
+    Private Sub btnShow_Click(sender As Object, e As EventArgs) Handles btnShow.Click
+        lblOutput.Text = "Hello, " & txtInput.Text
+    End Sub
+End Class
