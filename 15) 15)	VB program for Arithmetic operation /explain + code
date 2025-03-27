@@ -1,8 +1,6 @@
-## CODE
-
 Imports System
 
-Module Calculator
+Module Module1
     Sub Main()
         Dim num1, num2 As Double
         Dim operation As String
